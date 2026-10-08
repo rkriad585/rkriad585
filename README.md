@@ -35,7 +35,7 @@ The table below compares my top repositories (by stars and scope):
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkriad585&layout=compact&theme=transparent)
 
 - GitHub: **40** repos, **21** stars, **14** followers.  
-- *Badges:* e.g., `![GitHub Followers](https://img.shields.io/github/followers/rkriad585?style=social)` `![GitHub Stars](https://img.shields.io/github/stars/rkriad585)` `![MIT License](https://img.shields.io/badge/license-MIT-green)`.
+- *Badges:* e.g., ![GitHub Followers](https://img.shields.io/github/followers/rkriad585?style=social) ![GitHub Stars](https://img.shields.io/github/stars/rkriad585) ![MIT License](https://img.shields.io/badge/license-MIT-green).
 
 ## 📫 Contact & Collaboration
 
