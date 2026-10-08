@@ -35,11 +35,14 @@ The table below compares my top repositories (by stars and scope):
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkriad585&layout=compact&theme=transparent)
 
 - GitHub: **40** repos, **21** stars, **14** followers.  
-- *Badges:* e.g., ![GitHub Followers](https://img.shields.io/github/followers/rkriad585?style=social) ![GitHub Stars](https://img.shields.io/github/stars/rkriad585) ![MIT License](https://img.shields.io/badge/license-MIT-green).
+- *Badges:*
+    ![GitHub Followers](https://img.shields.io/github/followers/rkriad585?style=social)
+    ![GitHub Stars](https://img.shields.io/github/stars/rkriad585)
+    ![MIT License](https://img.shields.io/badge/license-MIT-green).
 
 ## 📫 Contact & Collaboration
 
-- **Email:** rkriad585585@gmail.com (via [Personal Site](https://rkriad585.github.io/)).  
+- **Email:** rkriad585@gmail.com (via [Personal Site](https://rkriad585.github.io/)).  
 - **Social:** [Facebook](https://facebook.com/rkriad585), [Threads](https://threads.com/@rkriad585), [YouTube](https://youtube.com/@rkriad585), [X (Twitter)](https://x.com/rk_riad585).  
 - **Academic:** ORCID iD [0009-0005-7611-7453](https://orcid.org/0009-0005-7611-7453).  
 
